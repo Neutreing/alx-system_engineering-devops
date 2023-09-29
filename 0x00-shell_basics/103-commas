@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -mpav1 -v; echo
+ls -mpav1
+echo
