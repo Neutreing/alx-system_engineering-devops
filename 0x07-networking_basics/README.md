@@ -1,2 +1,1 @@
-This is the task for 0x07.Networking basics #0
-
+This is the directory for the project 0x07. Networking basics #0
